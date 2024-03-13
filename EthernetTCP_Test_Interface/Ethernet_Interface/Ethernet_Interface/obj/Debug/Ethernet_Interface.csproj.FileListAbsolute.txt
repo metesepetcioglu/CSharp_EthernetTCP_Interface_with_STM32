@@ -1,0 +1,17 @@
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\bin\Debug\Ethernet_Interface.exe.config
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\bin\Debug\Ethernet_Interface.exe
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\bin\Debug\Ethernet_Interface.pdb
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\bin\Debug\SimpleTCP.dll
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.csproj.AssemblyReference.cache
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.Form1.resources
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.Properties.Resources.resources
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.csproj.GenerateResource.cache
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.csproj.CoreCompileInputs.cache
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.csproj.CopyComplete
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.exe
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.pdb
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\bin\Debug\Ethernet_Interface.exe.manifest
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\bin\Debug\Ethernet_Interface.application
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.exe.manifest
+C:\Users\metes\OneDrive\Belgeler\Keil_Calismalar\Ethernet_Interface\Ethernet_Interface\Ethernet_Interface\obj\Debug\Ethernet_Interface.application
