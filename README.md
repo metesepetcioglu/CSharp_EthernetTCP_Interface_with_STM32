@@ -3,5 +3,8 @@
 
 
 
-https://github.com/metesepetcioglu/CSharp_EthernetTCP_Interface_with_STM32/assets/74401236/815903c3-6895-4803-8ecd-e061da4a130d
+
+
+
+https://github.com/metesepetcioglu/CSharp_EthernetTCP_Interface_with_STM32/assets/74401236/23f46e9c-705f-43fe-b84d-3d1985523243
 
